@@ -18,9 +18,13 @@ Objective:
 The objective of a simple calculator is to perform basic arithmetic operations to assist users in solving mathematical problems quickly and accurately. Typically, a simple calculator can handle operations such as:
 
 Addition (+): Summing two or more numbers.
+
 Subtraction (−): Finding the difference between two numbers.
+
 Multiplication (×): Calculating the product of two or more numbers.
+
 Division (÷): Determining how many times one number is contained within another.
+
 The goal is to provide a straightforward tool for everyday calculations without the complexity of more advanced functions found in scientific or graphing calculators. #task-2
 
 Key Activities:
@@ -30,9 +34,13 @@ Input Handling: Accepting user inputs through numerical keys (0-9) and operation
 Operation Execution: Carrying out arithmetic operations based on user input:
 
 Addition: Adding two or more numbers.
+
 Subtraction: Subtracting one number from another.
+
 Multiplication: Multiplying two or more numbers.
+
 Division: Dividing one number by another.
+
 Display: Showing the current input, intermediate results, and final results on the screen. This includes updating the display as operations are performed.
 
 Calculation: Performing the actual mathematical computations based on user commands and input values.
