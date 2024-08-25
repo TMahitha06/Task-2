@@ -1,3 +1,4 @@
+![task-2 output](https://github.com/user-attachments/assets/1d8dad1a-1456-47bd-8432-b3bb78519f2d)
 # Task-2
 
 NAME : T.Mahitha
