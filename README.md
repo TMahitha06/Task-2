@@ -54,7 +54,7 @@ Operation Execution: Carrying out arithmetic operations based on user input:
 
 **TECHNOLOGIES USED:**
 
-A Python-based Smple Calculator can be built using the following technologies:
+A Python-based Simple Calculator can be built using the following technologies:
 
 **Firmware:** The software embedded in the calculator's microcontroller or microprocessor that handles the arithmetic operations and user interface. It is responsible for processing input, performing calculations, and controlling the display.
 
